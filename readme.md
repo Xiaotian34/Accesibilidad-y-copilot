@@ -16,7 +16,7 @@ A continuación se presenta el código original, que contiene malas prácticas q
 
 ### Previsualización de la página
 
-![Previsualización de la página](ErrorPreview.png)
+![Previsualización de la página](imagenes/ErrorPreview.png)
 
 ### Problemas Detectados
 
@@ -34,7 +34,7 @@ A continuación se presenta el código original, que contiene malas prácticas q
 ### Resultado de las herramientas de validación de accesibilidad
 
 - **Wave**:
-    ![Wave](errorPag.png)
+    ![Wave](imagenes/errorPag.png)
 
 ---
 
@@ -85,12 +85,12 @@ El resultado final tras aplicar las sugerencias de la IA, mediante el prompt pro
 
 ### Previsualización de la página
 
-![Previsualización optimizada](CorreccionPreview.png)
+![Previsualización optimizada](imagenes/CorreccionPreview.png)
 
 ### Resultado de las herramientas de validación de accesibilidad:
 
-- **Wave**:
-    ![Wave](image-13.png)
+- **Wave**:imagenes/
+    ![Wave](imagenes/correccionPag.png)
 
 ---
 
@@ -115,7 +115,7 @@ Este experimento demuestra cómo una IA puede ayudar a mejorar la calidad del c�
 
 ## 6. Enlace al Repositorio
 
-[GitHub Repository](enlace-al-repositorio)
+[GitHub Repository](https://github.com/Xiaotian34/Accesibilidad-y-copilot.git)
 
 ---
 
@@ -137,7 +137,7 @@ The following shows the original code containing bad practices affecting accessi
 
 ### Page Preview
 
-![Page preview](ErrorPreview.png)
+![Page preview](imagenes/ErrorPreview.png)
 
 ### Detected Issues
 
@@ -155,7 +155,7 @@ The following shows the original code containing bad practices affecting accessi
 ### Accessibility Validation Results
 
 - **Wave**:
-    ![Wave](errorPag.png)
+    ![Wave](imagenes/errorPag.png)
 
 ---
 
@@ -206,12 +206,12 @@ The final result after applying AI suggestions via the provided prompt is shown 
 
 ### Page Preview
 
-![Optimized preview](CorreccionPreview.png)
+![Optimized preview](imagenes/CorreccionPreview.png)
 
 ### Accessibility Validation Results:
 
 - **Wave**:
-    ![Wave](image-13.png)
+    ![Wave](imagenes/correccionPag.png)
 
 ---
 
@@ -236,4 +236,4 @@ This experiment demonstrates how AI can help improve code quality by detecting i
 
 ## 6. GitHub Repository Link
 
-[GitHub Repository](repository-link)
+[GitHub Repository](https://github.com/Xiaotian34/Accesibilidad-y-copilot.git)
